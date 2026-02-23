@@ -1,0 +1,18 @@
+{
+    "owner": {
+        "username": "jweir-bd",
+        "email": "jweir@ftstudent.org"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "jweir-bd",
+            "value": "jweir-bd.github.io"
+        },
+        "TXT": {
+            "name": "_github-pages-challenge-jweir-bd",
+            "value": "0ed902b611ac99c79bd59fb8a26da4"
+        }
+    },
+    "proxied": false
+}
